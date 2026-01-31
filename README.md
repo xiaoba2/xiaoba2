@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi there 👋 This is Xiaoba2!
+- 🔭 I’m currently a student major in mathematics.
+- 🌱 I’m currently learning optimization and mathematical formalization.
+- 🤔 I am a Legendary-ranked player of Hearthstone.
+- 💬 Ask me about anything!
+- 📫 How to reach me: yujian_leisure@qq.com
 <!--
 **xiaoba2/xiaoba2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
