@@ -1,7 +1,6 @@
 ## Hi there 👋 This is Xiaoba2!
 - 🔭 I’m currently a student major in mathematics.
 - 🌱 I’m currently learning optimization and mathematical formalization.
-- 🤔 I am a Legendary-ranked player of Hearthstone.
 - 💬 Ask me about anything!
 - 📫 How to reach me: yujian_leisure@qq.com
 <!--
